@@ -1,0 +1,8 @@
+G:\CodeSpace\VS2013\HuarongRoad\HuarongRoad\bin\Debug\HuarongRoad.exe.config
+G:\CodeSpace\VS2013\HuarongRoad\HuarongRoad\bin\Debug\HuarongRoad.exe
+G:\CodeSpace\VS2013\HuarongRoad\HuarongRoad\bin\Debug\HuarongRoad.pdb
+G:\CodeSpace\VS2013\HuarongRoad\HuarongRoad\obj\Debug\HuarongRoad.Form1.resources
+G:\CodeSpace\VS2013\HuarongRoad\HuarongRoad\obj\Debug\HuarongRoad.Properties.Resources.resources
+G:\CodeSpace\VS2013\HuarongRoad\HuarongRoad\obj\Debug\HuarongRoad.csproj.GenerateResource.Cache
+G:\CodeSpace\VS2013\HuarongRoad\HuarongRoad\obj\Debug\HuarongRoad.exe
+G:\CodeSpace\VS2013\HuarongRoad\HuarongRoad\obj\Debug\HuarongRoad.pdb
